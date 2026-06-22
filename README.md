@@ -1,4 +1,4 @@
-# Aula7
+# Aula 7
 # Projeto de Filtros FIR e Processamento de Sinais de Áudio
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLOQUE_AQUI_O_LINK_DO_NOTEBOOK)
